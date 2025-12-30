@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Joachim</title>
+    <link>https://tobiasjoachim.com/de/</link>
+    <description>Recent content on Tobias Joachim</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://tobiasjoachim.com/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Planner</title>
+      <link>https://tobiasjoachim.com/de/en/getstarted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tobiasjoachim.com/de/en/getstarted/</guid>
+      <description>&lt;!-- You can leave this empty now, because we’re using the layout --&gt;</description>
+    </item>
+  </channel>
+</rss>
