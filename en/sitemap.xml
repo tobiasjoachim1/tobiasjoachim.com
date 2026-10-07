@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.178.21:1313/en/categories/</loc>
+    <loc>https://tobiasjoachim.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.21:1313/en/categories/"
+                href="https://tobiasjoachim.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://192.168.178.21:1313/de/categories/"
+                href="https://tobiasjoachim.com/de/categories/"
                 />
   </url><url>
-    <loc>http://192.168.178.21:1313/en/imprint/</loc>
+    <loc>https://tobiasjoachim.com/en/imprint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.21:1313/en/imprint/"
+                href="https://tobiasjoachim.com/en/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://192.168.178.21:1313/de/impressum/"
+                href="https://tobiasjoachim.com/de/impressum/"
                 />
   </url><url>
-    <loc>http://192.168.178.21:1313/en/privacy/</loc>
+    <loc>https://tobiasjoachim.com/en/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.21:1313/en/privacy/"
+                href="https://tobiasjoachim.com/en/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://192.168.178.21:1313/de/privacy/"
+                href="https://tobiasjoachim.com/de/privacy/"
                 />
   </url><url>
-    <loc>http://192.168.178.21:1313/en/tags/</loc>
+    <loc>https://tobiasjoachim.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.21:1313/en/tags/"
+                href="https://tobiasjoachim.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://192.168.178.21:1313/de/tags/"
+                href="https://tobiasjoachim.com/de/tags/"
                 />
   </url><url>
-    <loc>http://192.168.178.21:1313/en/</loc>
+    <loc>https://tobiasjoachim.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.21:1313/en/"
+                href="https://tobiasjoachim.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://192.168.178.21:1313/de/"
+                href="https://tobiasjoachim.com/de/"
                 />
   </url>
 </urlset>
