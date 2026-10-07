@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tobias Joachim</title>
-    <link>https://tobiasjoachim.com/de/</link>
-    <description>Recent content on Tobias Joachim</description>
-    <generator>Hugo</generator>
-    <language>de</language>
-    <atom:link href="https://tobiasjoachim.com/de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project Planner</title>
-      <link>https://tobiasjoachim.com/de/en/getstarted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tobiasjoachim.com/de/en/getstarted/</guid>
-      <description>&lt;!-- You can leave this empty now, because we’re using the layout --&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tobias Joachim</title>
+		<link>http://192.168.178.21:1313/de/</link>
+		<description>Recent content on Tobias Joachim</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://192.168.178.21:1313/de/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Datenschutz</title>
+				<link>http://192.168.178.21:1313/de/privacy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://192.168.178.21:1313/de/privacy/</guid>
+				<description>&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h1&gt;&#xA;&lt;h3 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h3&gt;&#xA;&lt;h3 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h3&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.&lt;/p&gt;&#xA;&lt;h3 id=&#34;datenerfassung-auf-dieser-website&#34;&gt;Datenerfassung auf dieser Website&lt;/h3&gt;&#xA;&lt;h4 id=&#34;wer-ist-verantwortlich-für-die-datenerfassung-auf-dieser-website&#34;&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/h4&gt;&#xA;&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Impressum</title>
+				<link>http://192.168.178.21:1313/de/impressum/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://192.168.178.21:1313/de/impressum/</guid>
+				<description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;Tobias Joachim&lt;br&gt;&#xA;Fredericiastraße 33&#xA;14059 Berlin&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:hello@tobiasjoachim.com&#34;&gt;hello@tobiasjoachim.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verbraucherstreitbeilegung/Universalschlichtungsstelle&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

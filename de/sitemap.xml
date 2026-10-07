@@ -2,44 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tobiasjoachim.com/de/categories/</loc>
+    <loc>http://192.168.178.21:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tobiasjoachim.com/en/categories/"
+                href="http://192.168.178.21:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://tobiasjoachim.com/de/categories/"
+                hreflang="en-us"
+                href="http://192.168.178.21:1313/de/categories/"
                 />
   </url><url>
-    <loc>https://tobiasjoachim.com/de/en/</loc>
-  </url><url>
-    <loc>https://tobiasjoachim.com/de/en/getstarted/</loc>
-  </url><url>
-    <loc>https://tobiasjoachim.com/de/tags/</loc>
+    <loc>http://192.168.178.21:1313/de/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tobiasjoachim.com/en/tags/"
+                href="http://192.168.178.21:1313/en/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://tobiasjoachim.com/de/tags/"
+                hreflang="en-us"
+                href="http://192.168.178.21:1313/de/privacy/"
                 />
   </url><url>
-    <loc>https://tobiasjoachim.com/de/</loc>
+    <loc>http://192.168.178.21:1313/de/impressum/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tobiasjoachim.com/en/"
+                href="http://192.168.178.21:1313/en/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://tobiasjoachim.com/de/"
+                hreflang="en-us"
+                href="http://192.168.178.21:1313/de/impressum/"
+                />
+  </url><url>
+    <loc>http://192.168.178.21:1313/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://192.168.178.21:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://192.168.178.21:1313/de/tags/"
+                />
+  </url><url>
+    <loc>http://192.168.178.21:1313/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://192.168.178.21:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://192.168.178.21:1313/de/"
                 />
   </url>
 </urlset>
